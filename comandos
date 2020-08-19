@@ -1,0 +1,10 @@
+#comandos git 
+git init
+git remote add origin -link-
+git status
+git add * 
+#agrega todos los archivos
+git commit -m "mensaje"
+git push origin master
+
+
